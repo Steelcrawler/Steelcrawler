@@ -2,6 +2,8 @@
 
 I'm a CS student at UofT focusing in both Computer Systems and AI. I'm a research-focused developer with experience in computational neuroscience, financial systems, and ML infrastructure. Currently working on memory-inspired neural networks and AI-driven financial advice systems.
 
+I really love hackathons and participate in many throughout the school year, mostly to get experience building and scaling applications from start to finish in a short period of time, while meeting a variety of other people. A lot of projects on my GitHub are from hackathons, because they give me a dedicated place to work solely on building something cool.
+
 ## Current Work
 
 **Research Assistant** - Computational Neuroscience Lab (UHN) - Developing memory-inspired neural network architectures  
