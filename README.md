@@ -23,7 +23,7 @@ I really love hackathons and participate in many throughout the school year, mos
 
 **mAIstro!** (GenAI Genesis) - Cross-document analysis platform with adaptive mastery system  
 
-**DeepEmotion** (UTMIST) - fMRI emotion classification with 3DCNNs, submitted to CUCAI
+**DeepEmotion** (UTMIST) - fMRI emotion classification with 3DCNNs, accepted to IEEE NER 2025 and CUCAI
 
 <!--
 **Steelcrawler/Steelcrawler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
