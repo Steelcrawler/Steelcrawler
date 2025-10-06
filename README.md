@@ -19,8 +19,8 @@ I really love hackathons and participate in many throughout the school year, mos
 
 ## Notable Projects
 
+**Train in a Snap!** (Hack the North) - 🏆 Top 32/261, Immersive emergency AR training powered by Snapchat Spectacles
 **mAIstro!** (GenAI Genesis) - Cross-document analysis platform with adaptive mastery system  
-**The Other Side** (UofT Hacks 12) - Real-time fact-checked debate platform using Vertex AI  
 **DeepEmotion** (UTMIST) - fMRI emotion classification with 3DCNNs, submitted to CUCAI
 
 <!--
